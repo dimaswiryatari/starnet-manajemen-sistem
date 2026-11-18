@@ -1,0 +1,8 @@
+{
+  "name": "lanjutan NetOps MikroTik — Manajemen RT/RW Net",
+  "description": "Sistem manajemen multi-cabang RT/RW Net terintegrasi MikroTik untuk monitoring router, PPPoE secret, cek jaringan ping, dan kontrol akses admin serta staf.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
